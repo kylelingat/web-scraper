@@ -16,8 +16,7 @@ def scrapePrice():
     f.write(text)
     f.close()
     print('Price saved to bitcoinPrice.txt')
-
-
+    
 schedule.every(1).minutes.do(scrapePrice)
 
 while 1:
