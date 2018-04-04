@@ -51,6 +51,4 @@ Tasks
 -   Move the webscraping out of the function, and use a cronjob to automate running the function once a day
 -   Add a portion to your code that will write the date & time next to each price
 # web-scraper
-# web-scraper
-# web-scraper
-# web-scraper
+
